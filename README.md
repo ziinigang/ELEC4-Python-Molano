@@ -52,9 +52,9 @@ python set1/p3/p3_record_manager.py
 
 ![P3 Search Student](set1/p3/screenshots/p3_search_student.png)
 
-![P3 Remove Student](set1/p3/screenshots/p3_remove_student.png)
+![P3 Remove Student](set1/p3/screenshots/p3_removed_student.png)
 
-![P3 Display Students](set1/p3/screenshots/p3_display_students.png)
+![P3 Display Students](set1/p3/screenshots/p3_display_student.png)
 
 ### P4 - Safe Menu Program
 
