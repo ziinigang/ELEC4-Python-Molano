@@ -1,4 +1,3 @@
-
 # ELEC4-Python-Molano
 
 # ELEC 4 - Python Programming Activities
@@ -14,7 +13,9 @@
 A menu-driven program that calculates student grades, average, highest grade, lowest grade, and pass/fail status.
 
 **Folder:** [Open P1 Folder](set1/p1/)
+
 **Run Command:**
+
 ```bash
 python set1/p1/p1_grade_calculator.py
 ```
@@ -23,12 +24,16 @@ python set1/p1/p1_grade_calculator.py
 
 ![P1 Sample Run](set1/p1/screenshots/p1_sample_run.png)
 
+---
+
 ### P2 - Custom Module: student_utils
 
 A program that uses a custom module to calculate the average, pass/fail result, highest grade, and lowest grade.
 
 **Folder:** [Open P2 Folder](set1/p2/)
+
 **Run Command:**
+
 ```bash
 python set1/p2/p2_main.py
 ```
@@ -37,12 +42,16 @@ python set1/p2/p2_main.py
 
 ![P2 Sample Run](set1/p2/screenshots/p2_sample_run.png)
 
+---
+
 ### P3 - Student Record Manager
 
 A menu-driven program that allows users to add, remove, search, and display student records while preventing duplicate entries.
 
 **Folder:** [Open P3 Folder](set1/p3/)
+
 **Run Command:**
+
 ```bash
 python set1/p3/p3_record_manager.py
 ```
@@ -59,12 +68,16 @@ python set1/p3/p3_record_manager.py
 
 ![P3 Display Students](set1/p3/screenshots/p3_display_student.png)
 
+---
+
 ### P4 - Safe Menu Program
 
 A menu-driven program that handles invalid number input, division by zero, missing files, and invalid menu selections using exception handling.
 
 **Folder:** [Open P4 Folder](set1/p4/)
+
 **Run Command:**
+
 ```bash
 python set1/p4/p4_exceptions.py
 ```
